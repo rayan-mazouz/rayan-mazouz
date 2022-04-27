@@ -1,1 +1,1 @@
-I'm Rayan Mazouz, Student at EPITA France
+I'm Rayan Mazouz, a 19 years old developper
