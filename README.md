@@ -1,4 +1,4 @@
-### I'm Rayan Mazouz, a french 19 years old developper. currently studying at Epitech
+### I'm Rayan Mazouz, a french 19 years old developper.
 
 reach me by mail : rnmazouz@gmail.com
 
