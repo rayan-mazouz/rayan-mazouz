@@ -1,4 +1,4 @@
-### I'm Rayan Mazouz, a french 19 years old developper.
+### I'm Rayan Mazouz, a french 19 years old developer.
 
 reach me by mail : rnmazouz@gmail.com
 
