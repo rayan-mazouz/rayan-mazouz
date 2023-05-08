@@ -14,8 +14,6 @@ In my opinion, the most important quality of a programmer is their ability to wr
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayan-mazouz&title_color=400D51&text_color=400D51&bg_color=75,833AB4,FD1D1D,FCB0B0&icon_color=400D51&count_private=true&show_icons=true&hide_border=true&border_radius=3)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayan-mazouz&layout=compact&title_color=400D51&text_color=400D51&bg_color=75,833AB4,FD1D1D,FCB0B0&icon_color=400D51&hide_border=true&border_radius=3)](https://github.com/anuraghazra/github-readme-stats)
-
 reach me by mail : rayan.mazouz@epitech.eu
 
 or on discord : rayananas#1957
